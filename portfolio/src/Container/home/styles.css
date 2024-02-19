@@ -1,0 +1,42 @@
+body{
+    background-color: lightcyan;
+}
+.home-container {
+    background-color: lightcyan; 
+    /* background: linear-gradient(to top,#FF6347 60%, #6495ED 50%); */
+     text-align: center;
+    margin: 0;
+    height: 100vh; 
+}
+
+
+.home-container h1 {
+    font-size: 2.5em;
+    color: #333;
+    align-items: center;
+}
+.home-container img{
+    height: 17rem;
+    width: 17rem;
+    border-radius : 50%;
+    object-fit:cover;
+    margin-bottom:1rem;
+    border:7rem solid var(--yellow);
+}
+
+.home-container p {
+    font-size: 1.2em;
+    color: #666;
+    margin-top: 0;
+
+} 
+
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 

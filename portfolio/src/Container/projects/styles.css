@@ -1,0 +1,15 @@
+
+.newheading{
+    background-color: #ffebeb;
+    border-radius: .2vh;
+    box-shadow: 0.5vw 0.2vw 0.3vw 0.2vw #9b909098;
+    color: red;
+    font-size: 1vw;
+    font-weight: 70;
+    /* height: auto; */
+    margin: 2% 2.5%;
+    overflow: hidden; 
+    padding: 1% 1%;
+ 
+      
+  }
